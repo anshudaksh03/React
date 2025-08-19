@@ -1,7 +1,14 @@
 
+import Chai from "./chai";
 function App() {
   return (
-  <h1> hellow Anshu </h1>
+    <>  
+    <Chai/>
+
+    <h1> hellow Anshu </h1>
+
+    </>
+
   );
 }
 
