@@ -10,6 +10,8 @@ const addValue = () =>{
   //counter = counter + 1
  //setCounter(counter)
  setCounter(counter + 1)
+ //setCounter(prevcounter => prevcounter + 1) // ab yea ka sath 2 increment krra ga
+
   // console.log("Value is added", counter);
 
    
